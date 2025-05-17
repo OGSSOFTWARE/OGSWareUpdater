@@ -1,0 +1,7 @@
+AutoSetup V1.9 Update Highlights:
+
+- Fixed Auto Updater
+- Fixed Virtualization
+- Fixed Display
+- Fixed System Information
+- Added OS Version
